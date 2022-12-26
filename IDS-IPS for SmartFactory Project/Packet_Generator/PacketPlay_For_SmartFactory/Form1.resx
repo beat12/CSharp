@@ -1,0 +1,90 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>* BACnet Protocol 
+
+1. 정의 
+BACnet은 빌딩 자동제어 및 제어 네트워크의 표준 프로토콜로서 말 그대로 "A Data Communication Protocol for Building Automation and Control Networks"의 약자이다.
+BACnet은 미국의 냉동 공조 학회인 ASHRAE(American Society of Heating, Refrigerating and Air-Conditioning Engineers)의 주도로 만들어졌으며, 미국 및 유럽의 표준이며 30여개국 이상에서 표준으로 채택되었다.
+
+2. 프로토콜 취약성
+외부 장비의 인증없는 등록 요청 취약성
+
+3. 차단 정책 추천 
+alert udp !$BACNET_CLIENT any -&gt; any 47808 (content: "|05|"; offset:1; depth:1; msg:"BACnet foreign Device Join Attempt From Non Authorized Host"; sid:1111702;priority:1;rev:1;)</value>
+  </data>
+  <data name="richTextBox_attacker.Text" xml:space="preserve">
+    <value>21:46:19.693601 IP 10.10.1.10.60460 &gt; 10.10.1.199.5432: Flags [S], seq 116466344, win 29200, options [mss 1460,sackOK,TS val 3547090332 ecr 0,nop,wscale 7], length 0
+21:46:19.693626 IP 10.10.1.10.35470 &gt; 10.10.1.199.513: Flags [S], seq 3400074709, win 29200, options [mss 1460,sackOK,TS val 3547090332 ecr 0,nop,wscale 7], length 0
+21:46:19.693762 IP 10.10.1.10.44244 &gt; 10.10.1.199.389: Flags [S], seq 2214070267, win 29200, options [mss 1460,sackOK,TS val 3547090333 ecr 0,nop,wscale 7], length 0
+21:46:19.693772 IP 10.10.1.199.389 &gt; 10.10.1.10.44244: Flags [R.], seq 0, ack 2214070268, win 0, length 0
+21:46:19.693783 IP 10.10.1.10.35172 &gt; 10.10.1.199.1433: Flags [S], seq 2358257571, win 29200, options [mss 1460,sackOK,TS val 3547090333 ecr 0,nop,wscale 7], length 0
+21:46:19.693826 IP 10.10.1.10.33022 &gt; 10.10.1.199.49153: Flags [S], seq 2406028551, win 29200, options [mss 1460,sackOK,TS val 3547090333 ecr 0,nop,wscale 7], length 0
+21:46:19.695567 IP 10.10.1.10.55130 &gt; 10.10.1.199.49154: Flags [S], seq 3230403372, win 29200, options [mss 1460,sackOK,TS val 3547090334 ecr 0,nop,wscale 7], length 0
+21:46:19.695590 IP 10.10.1.199.49154 &gt; 10.10.1.10.55130: Flags [R.], seq 0, ack 3230403373, win 0, length 0
+21:46:19.695608 IP 10.10.1.10.33460 &gt; 10.10.1.199.49152: Flags [S], seq 3289070068, win 29200, options [mss 1460,sackOK,TS val 3547090335 ecr 0,nop,wscale 7], length 0
+21:46:19.695622 IP 10.10.1.199.49152 &gt; 10.10.1.10.33460: Flags [R.], seq 0, ack 3289070069, win 0, length 0
+21:46:19.695637 IP 10.10.1.10.34940 &gt; 10.10.1.199.1029: Flags [S], seq 140319147, win 29200, options [mss 1460,sackOK,TS val 3547090335 ecr 0,nop,wscale 7], length 0
+21:46:19.695650 IP 10.10.1.199.1029 &gt; 10.10.1.10.34940: Flags [R.], seq 0, ack 140319148, win 0, length 0
+21:46:19.695664 IP 10.10.1.10.45648 &gt; 10.10.1.199.5060: Flags [S], seq 2203629201, win 29200, options [mss 1460,sackOK,TS val 3547090335 ecr 0,nop,wscale 7], length 0
+21:46:19.695775 IP 10.10.1.10.49028 &gt; 10.10.1.199.2000: Flags [S], seq 635990431, win 29200, options [mss 1460,sackOK,TS val 3547090335 ecr 0,nop,wscale 7], length 0
+21:46:19.695790 IP 10.10.1.199.2000 &gt; 10.10.1.10.49028: Flags [R.], seq 0, ack 635990432, win 0, length 0</value>
+  </data>
+</root>

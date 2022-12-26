@@ -1,0 +1,66 @@
+C:\Users\yoyoblue\source\repos\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\bin\Debug\net6.0-windows\PacketPlay_For_SmartFactory.exe
+C:\Users\yoyoblue\source\repos\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\bin\Debug\net6.0-windows\PacketPlay_For_SmartFactory.deps.json
+C:\Users\yoyoblue\source\repos\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\bin\Debug\net6.0-windows\PacketPlay_For_SmartFactory.runtimeconfig.json
+C:\Users\yoyoblue\source\repos\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\bin\Debug\net6.0-windows\PacketPlay_For_SmartFactory.dll
+C:\Users\yoyoblue\source\repos\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\bin\Debug\net6.0-windows\PacketPlay_For_SmartFactory.pdb
+C:\Users\yoyoblue\source\repos\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\PacketPlay_For_SmartFactory.csproj.AssemblyReference.cache
+C:\Users\yoyoblue\source\repos\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\PacketPlay_For_SmartFactory.Form1.resources
+C:\Users\yoyoblue\source\repos\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\PacketPlay_For_SmartFactory.csproj.GenerateResource.cache
+C:\Users\yoyoblue\source\repos\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\PacketPlay_For_SmartFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoyoblue\source\repos\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\PacketPlay_For_SmartFactory.AssemblyInfoInputs.cache
+C:\Users\yoyoblue\source\repos\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\PacketPlay_For_SmartFactory.AssemblyInfo.cs
+C:\Users\yoyoblue\source\repos\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\PacketPlay_For_SmartFactory.csproj.CoreCompileInputs.cache
+C:\Users\yoyoblue\source\repos\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\PacketPlay_For_SmartFactory.dll
+C:\Users\yoyoblue\source\repos\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\refint\PacketPlay_For_SmartFactory.dll
+C:\Users\yoyoblue\source\repos\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\PacketPlay_For_SmartFactory.pdb
+C:\Users\yoyoblue\source\repos\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\PacketPlay_For_SmartFactory.genruntimeconfig.cache
+C:\Users\yoyoblue\source\repos\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\ref\PacketPlay_For_SmartFactory.dll
+C:\Users\yoyoblue\source\repos\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\bin\Debug\net6.0-windows\PacketDotNet.dll
+C:\Users\yoyoblue\source\repos\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\bin\Debug\net6.0-windows\SharpPcap.dll
+C:\Users\yoyoblue\source\repos\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\bin\Debug\net6.0-windows\Renci.SshNet.dll
+C:\Users\yoyoblue\source\repos\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\bin\Debug\net6.0-windows\SshNet.Security.Cryptography.dll
+C:\Users\yoyoblue\source\repos\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\PacketPlay_For_SmartFactory.csproj.CopyComplete
+C:\Users\Admin\Desktop\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\bin\Debug\net6.0-windows\PacketPlay_For_SmartFactory.exe
+C:\Users\Admin\Desktop\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\bin\Debug\net6.0-windows\PacketPlay_For_SmartFactory.deps.json
+C:\Users\Admin\Desktop\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\bin\Debug\net6.0-windows\PacketPlay_For_SmartFactory.runtimeconfig.json
+C:\Users\Admin\Desktop\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\bin\Debug\net6.0-windows\PacketPlay_For_SmartFactory.dll
+C:\Users\Admin\Desktop\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\bin\Debug\net6.0-windows\PacketPlay_For_SmartFactory.pdb
+C:\Users\Admin\Desktop\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\bin\Debug\net6.0-windows\PacketDotNet.dll
+C:\Users\Admin\Desktop\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\bin\Debug\net6.0-windows\SharpPcap.dll
+C:\Users\Admin\Desktop\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\bin\Debug\net6.0-windows\Renci.SshNet.dll
+C:\Users\Admin\Desktop\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\bin\Debug\net6.0-windows\SshNet.Security.Cryptography.dll
+C:\Users\Admin\Desktop\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\PacketPlay_For_SmartFactory.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\PacketPlay_For_SmartFactory.Form1.resources
+C:\Users\Admin\Desktop\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\PacketPlay_For_SmartFactory.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\PacketPlay_For_SmartFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\PacketPlay_For_SmartFactory.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\PacketPlay_For_SmartFactory.AssemblyInfo.cs
+C:\Users\Admin\Desktop\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\PacketPlay_For_SmartFactory.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\PacketPlay_For_SmartFactory.csproj.CopyComplete
+C:\Users\Admin\Desktop\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\PacketPlay_For_SmartFactory.dll
+C:\Users\Admin\Desktop\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\refint\PacketPlay_For_SmartFactory.dll
+C:\Users\Admin\Desktop\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\PacketPlay_For_SmartFactory.pdb
+C:\Users\Admin\Desktop\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\PacketPlay_For_SmartFactory.genruntimeconfig.cache
+C:\Users\Admin\Desktop\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\ref\PacketPlay_For_SmartFactory.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\PacketPlay_For_SmartFactory.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\카카오톡 받은 파일\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\PacketPlay_For_SmartFactory.Form1.resources
+C:\Users\Admin\Documents\카카오톡 받은 파일\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\PacketPlay_For_SmartFactory.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\카카오톡 받은 파일\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\PacketPlay_For_SmartFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\카카오톡 받은 파일\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\PacketPlay_For_SmartFactory.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\카카오톡 받은 파일\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\PacketPlay_For_SmartFactory.AssemblyInfo.cs
+C:\Users\Admin\Documents\카카오톡 받은 파일\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\PacketPlay_For_SmartFactory.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\카카오톡 받은 파일\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\PacketPlay_For_SmartFactory.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\refint\PacketPlay_For_SmartFactory.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\PacketPlay_For_SmartFactory.pdb
+C:\Users\Admin\Documents\카카오톡 받은 파일\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\bin\Debug\net6.0-windows\PacketPlay_For_SmartFactory.exe
+C:\Users\Admin\Documents\카카오톡 받은 파일\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\bin\Debug\net6.0-windows\PacketPlay_For_SmartFactory.deps.json
+C:\Users\Admin\Documents\카카오톡 받은 파일\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\bin\Debug\net6.0-windows\PacketPlay_For_SmartFactory.runtimeconfig.json
+C:\Users\Admin\Documents\카카오톡 받은 파일\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\bin\Debug\net6.0-windows\PacketPlay_For_SmartFactory.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\bin\Debug\net6.0-windows\PacketPlay_For_SmartFactory.pdb
+C:\Users\Admin\Documents\카카오톡 받은 파일\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\bin\Debug\net6.0-windows\PacketDotNet.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\bin\Debug\net6.0-windows\SharpPcap.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\bin\Debug\net6.0-windows\Renci.SshNet.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\bin\Debug\net6.0-windows\SshNet.Security.Cryptography.dll
+C:\Users\Admin\Documents\카카오톡 받은 파일\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\PacketPlay_For_SmartFactory.csproj.CopyComplete
+C:\Users\Admin\Documents\카카오톡 받은 파일\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\PacketPlay_For_SmartFactory.genruntimeconfig.cache
+C:\Users\Admin\Documents\카카오톡 받은 파일\PacketPlay_test\PacketPlay_For_SmartFactory\PacketPlay_For_SmartFactory\obj\Debug\net6.0-windows\ref\PacketPlay_For_SmartFactory.dll

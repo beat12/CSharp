@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ROOT>
+  <Protocol id="1">
+    <FileName>bacnet_test_1.pcap</FileName>
+    <Define>
+    	<Head  font="bold;blue">1. 정의</Head>
+    	<Content> BACnet은 빌딩 자동제어 및 제어 네트워크의 표준 프로토콜로서 말 그대로 "A Data Communication Protocol for Building Automation and Control Networks"의 약자이다.
+BACnet은 미국의 냉동 공조 학회인 ASHRAE(American Society of Heating, Refrigerating and Air-Conditioning Engineers)의 주도로 만들어졌으며, 미국 및 유럽의 표준이며 30여개국 이상에서 표준으로 채택되었다.
+    	</Content>
+    </Define>
+
+    <Security>
+    	<Head  font="bold">2. 프로토콜 취약성</Head>
+    	<Content> 어쩌구 저쩌구 </Content>
+    </Security>
+
+    <Rules>
+    	<Head  font="bold">3. 차단 정책 추천</Head>
+    	<Content> alert udp !$BACNET_CLIENT any -> any 47808 (content: "|05|"; offset:1; depth:1; msg:"BACnet foreign Device Join Attempt From Non Authorized Host"; sid:1111702;priority:1;rev:1;) </Content>
+    </Rules>
+  </Protocol>
+
+  <Protocol ID="2"> ...   </Protocol>
+  <Protocol ID="3"> ...   </Protocol>
+  <Protocol ID="4"> ...   </Protocol>
+  <Protocol ID="5"> ...   </Protocol>
+
+
+'
+'
+</ROOT>
