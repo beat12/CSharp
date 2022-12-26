@@ -1,2 +1,2 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=IDS/IPS_SmartFactory_Solution&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=IDS/IPS Solution&fontSize=90" />
